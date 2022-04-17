@@ -1,0 +1,8 @@
+certifi==2021.10.8
+charset-normalizer==2.0.12
+idna==3.3
+inputimeout==1.0.4
+requests==2.27.1
+setuptools==57.0.0
+urllib3==1.26.9
+wheel==0.36.2
