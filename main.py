@@ -11,7 +11,7 @@ streamer_name_list = ['underground_dv', 'yeung_sonson']
 web_open_list = {streamer_name: 0 for streamer_name in streamer_name_list}
 
 # twitch api call https://dev.twitch.tv/docs/api
-client_id = '  '  # input your client id
+client_id = ''  # input your client id
 client_secret = '' # input your client secret
 
 # https://dev.twitch.tv/docs/authentication/getting-tokens-oauth#oauth-client-credentials-flow
